@@ -1,4 +1,4 @@
-package BridgePattern;
+package bridge_pattern;
 
 public class Remote implements IRemote{
 

@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapter_pattern;
 
 public class RoundHole {
     private int radius;

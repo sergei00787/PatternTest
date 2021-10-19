@@ -1,4 +1,4 @@
-package BridgePattern;
+package bridge_pattern;
 
 public interface IRemote {
     public void setDevice(IDevice device);

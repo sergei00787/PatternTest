@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapter_pattern;
 
 public class SquarePeg {
     public int width;

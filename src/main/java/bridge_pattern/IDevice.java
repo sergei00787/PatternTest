@@ -1,4 +1,4 @@
-package BridgePattern;
+package bridge_pattern;
 
 public interface IDevice {
     void setVolume(int volume);

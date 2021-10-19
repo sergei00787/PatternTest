@@ -1,4 +1,4 @@
-package CompositePattern;
+package composite_pattern;
 
 public class SoundBar implements Component{
     private String song;

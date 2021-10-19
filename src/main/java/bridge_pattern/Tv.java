@@ -1,13 +1,13 @@
-package BridgePattern;
+package bridge_pattern;
 
-public class Radio implements IDevice{
-    private int volume = 15;
-    private String power = "off";
+public class Tv implements IDevice{
+    private int volume;
+    private String power;
 
-    public Radio() {
+    public Tv() {
     }
 
-    public Radio(int volume, String power) {
+    public Tv(int volume, String power) {
         this.volume = volume;
         this.power = power;
     }
